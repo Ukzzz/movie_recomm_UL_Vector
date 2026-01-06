@@ -425,20 +425,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [TMDB](https://www.themoviedb.org/) for the movie database
-- [Kaggle](https://www.kaggle.com/) for hosting the dataset
+- [Kaggle](https://www.kaggle.com/) for the dataset
 - [scikit-learn](https://scikit-learn.org/) for ML algorithms
 - [NLTK](https://www.nltk.org/) for NLP tools
 
----
-
-## 📬 Contact
-
-**Project Maintainer**: [Your Name]
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
 
 <p align="center">
   Made with ❤️ for movie lovers
